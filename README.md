@@ -1,6 +1,3 @@
-Sure! Here’s the complete README content all in one block for you to copy:
-
-```markdown
 # Handwriting Recognition Project
 
 ## Overview
@@ -54,4 +51,4 @@ This project visualizes predictions from a handwriting recognition model on the 
 
 ## License
 MIT License
-```
+
